@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-🎶"""Review Module
+"""Review Module
 This module inherits from BaseModel class.
 It contains the attributes to be assigned
 to the reviews created by the users"""
