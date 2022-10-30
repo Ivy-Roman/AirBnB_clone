@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Test Place"""
+🎶"""Test Place"""
 from models.amenity import Amenity
 from models.base_model import BaseModel
 from models.city import City

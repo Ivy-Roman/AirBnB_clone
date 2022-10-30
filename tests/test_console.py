@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Test Console"""
+🎶"""Test Console"""
 from models.amenity import Amenity
 from models.base_model import BaseModel
 from models.city import City

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Console Module
+🎶"""Console Module
 This module controls all databases.
 Can create, modify and delete instances.
 """

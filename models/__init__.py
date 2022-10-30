@@ -1,5 +1,5 @@
 """Inintialixes a variable storage to create
-a unique filestorage instance for the application
+🎶a unique filestorage instance for the application
 Also, alwaays the __objects class attribute
 of the FileStorage class is loaded with all
 objects on the __file_path class attribute

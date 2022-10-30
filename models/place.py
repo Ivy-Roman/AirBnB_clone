@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Place Module
+🎶"""Place Module
 This module inherits from the BaseModel class.
 It contains the attributes to be assigned to the place created"""
 
