@@ -88,4 +88,4 @@ word': 'root', 'updated_at': datetime.datetime(2017, 1, 15, 18, 50, 13, 939585)}
 ## AUTHORS
  
 * **Valentine Samuel** - [Valentine Samuel](https://github.com/valentinesamuel)
-* **Ivie Osoiye** - [github_username_goes_here](https://github.com/Ivy-Roman)
+* **Ivie Osoiye** - [Ivy Roman](https://github.com/Ivy-Roman)
