@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-🎶"""Unittest for base model module.
+"""Unittest for base model module.
 This unittest is a collection of possible edge cases
 on which this module should not be expected to fail,
 and cases on which it is expected to fail.
