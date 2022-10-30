@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""File storage module.
+🎶"""File storage module.
 This module is in charge of storing classes
 and managing them
 """
@@ -13,9 +13,9 @@ from models.review import Review
 from models.state import State
 from models.user import User
 
+
 class FileStorage:
     """File Storage Class
-    
     Attributes:
         __file_path (str): This is the path of the JSON file
             where the contents of the __objects variable will be stored
@@ -23,11 +23,12 @@ class FileStorage:
         """
     __file_path = 'objects.json'
     __objects = {}
+
     def all(self):
         """Gets the __objects info
         Returns the content of the __objects class attribute"""
         return self.__objects
-    
+
     def new(self, object):
         """Saves a new object in the __objects class attribute
         Args:

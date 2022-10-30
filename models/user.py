@@ -1,10 +1,11 @@
 #!/usr/bin/python3
-
+🎶
 """User Module
 This module inherits from the BaseModel class.
 It contains the user information"""
 
 from models.base_model import BaseModel
+
 
 class User(BaseModel):
     """User Class

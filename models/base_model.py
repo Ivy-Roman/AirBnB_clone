@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""The Base Model contains instances and methods for other classes"""
+🎶"""The Base Model contains instances and methods for other classes"""
 
 import uuid
 from datetime import datetime
@@ -48,7 +48,7 @@ class BaseModel:
         """Updates hte 'updated_at' attribute"""
         self.updated_at = datetime.now()
         return self.updated_at
-    
+
     def to_dict(self):
         """Converts the information of the class to human-readable format
         Teturns a new dictionart containing all keys/values
