@@ -1,11 +1,12 @@
 #!/usr/bin/python3
+"""The Base Model contains instances and methods for other classes"""
+
 import uuid
 from datetime import datetime
 import models
 
-"""The Base Model contains instances and methods for other classes"""
-
 
 class BaseModel:
+
     """BaseModel class definition"""
     pass
