@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-🎶"""City Module
+"""City Module
 This module inherits from BaseModel class.
 It contains the attributes to be assigned
 to the class"""
