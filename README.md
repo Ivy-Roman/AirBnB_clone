@@ -87,5 +87,5 @@ word': 'root', 'updated_at': datetime.datetime(2017, 1, 15, 18, 50, 13, 939585)}
 
 ## AUTHORS
  
-* *Valentine Samuel** - [Boumaiza-kais](https://github.com/Boumaiza-kais)
-* **Name goes here** - [github_username_goes_here](https://github.com/github username goes here)
+* **Valentine Samuel** - [Valentine Samuel](https://github.com/valentinesamuel)
+* **Name goes here** - [github_username_goes_here](https://github.com/github_username_goes_here)
