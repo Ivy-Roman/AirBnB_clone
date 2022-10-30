@@ -6,6 +6,7 @@ It contains the attributes to be assigned to the amenities of the place"""
 
 from models.base_model import BaseModel
 
+
 class Amenity(BaseModel):
     """Amenity Class
     Attributes:

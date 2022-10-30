@@ -5,9 +5,9 @@ It contains the attributes to be assigned to the place created"""
 
 from models.base_model import BaseModel
 
+
 class Place(BaseModel):
     """Place Class
-    
     Attributes:
         city_id (str): The UUID of the city that the place is located in
         user_id (str): The UUID of the user of the place
