@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-🎶
 """User Module
 This module inherits from the BaseModel class.
 It contains the user information"""
