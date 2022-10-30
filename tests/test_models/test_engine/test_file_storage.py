@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-🎶"""test for file storage"""
+"""test for file storage"""
 from datetime import datetime
 import json
 from models.amenity import Amenity
